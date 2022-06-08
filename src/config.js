@@ -1,27 +1,27 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'lennon.c.cruz@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/lennoncc',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/lennonomel/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/lennonomel',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/lennon-c-cruz/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7',
+    // },
   ],
 
   navLinks: [
@@ -29,12 +29,12 @@ module.exports = {
       name: 'About',
       url: '/#about',
     },
+    // {
+    //   name: 'Experience',
+    //   url: '/#jobs',
+    // },
     {
-      name: 'Experience',
-      url: '/#jobs',
-    },
-    {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {
@@ -45,7 +45,7 @@ module.exports = {
 
   colors: {
     green: '#64ffda',
-    navy: '#0a192f',
+    navy: '#141414',
     darkNavy: '#020c1b',
   },
 
