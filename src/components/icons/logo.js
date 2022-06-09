@@ -34,6 +34,13 @@ const IconLogo = () => (
         fill="#ECE673"
         d="M108.448 173V84.808h12.736v77.184h39.936L159.712 173h-51.264z"
       ></path>
+      <circle cx="130" cy="130" r="130"
+          id="Shape"
+          stroke="currentColor"
+          strokeWidth="5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
     </svg>
 );
 
