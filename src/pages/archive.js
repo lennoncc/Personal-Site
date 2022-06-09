@@ -168,7 +168,7 @@ const ArchivePage = ({ location, data }) => {
               </tr>
             </thead>
             <tbody>
-              {/* {projects.length > 0 &&
+              {projects.length > 0 &&
                 projects.map(({ node }, i) => {
                   const {
                     date,
@@ -227,7 +227,7 @@ const ArchivePage = ({ location, data }) => {
                       </td>
                     </tr>
                   );
-                })} */}
+                })}
             </tbody>
           </table>
         </StyledTableContainer>
