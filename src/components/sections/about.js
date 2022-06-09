@@ -149,7 +149,7 @@ const About = () => {
               solutions with software!
             </p>
 
-            <p>Here some technologies I’ve been working with recently:</p>
+            <p>Here are some technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
