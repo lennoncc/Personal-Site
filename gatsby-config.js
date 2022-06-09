@@ -1,7 +1,8 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: "/Personal-Site",
+  // pathPrefix: "/Personal-Site",
+  // "deploy": "gatsby build --prefix-paths && gh-pages -d public", (put into scripts in package.json)
   siteMetadata: {
     title: 'Lennon Cruz',
     description:
