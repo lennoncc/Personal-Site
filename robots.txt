@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://brittanychiang.com/Personal-Site/sitemap/sitemap-index.xml
-Host: https://brittanychiang.com
+Sitemap: https://lennoncc.github.io/Personal-Site/sitemap/sitemap-index.xml
+Host: https://lennoncc.github.io
