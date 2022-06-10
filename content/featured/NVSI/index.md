@@ -3,7 +3,7 @@ date: '3'
 title: 'New Viet Nam Studies Initiative Site'
 cover: './demo.png'
 external: 'https://newvietnam.ucdavis.edu/'
-cta: 'https://github.com/include-davis/nvsi'
+github: 'https://github.com/include-davis/nvsi'
 tech:
   - React
   - Next.js
