@@ -7,7 +7,7 @@ module.exports = {
     title: 'Lennon Cruz',
     description:
       'Lennon Cruz is an aspiring software engineer who is studying Computer Science at UC Davis.',
-    siteUrl: 'https://lennoncc.github.io/Personal-Site', // No trailing slash allowed!
+    siteUrl: 'https://lennoncc.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@lennonomel',
   },
