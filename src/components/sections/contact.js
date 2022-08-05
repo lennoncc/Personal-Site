@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently looking for any opportunities in technology! Please reach out to me below!
+        I'm currently looking for any opportunities in tech! Please reach out to me below!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
