@@ -144,7 +144,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Lennon Cruz, and I just finished up my third year of undergrad at UC
+              Hello! My name is Lennon Cruz, and I'm currently in my fourth year of undergrad at UC
               Davis. I'm aiming to finish my degree by March of 2023, and am excited to build
               solutions with software!
             </p>
