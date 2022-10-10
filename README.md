@@ -58,3 +58,4 @@
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Yellow         | ![#ece673](https://via.placeholder.com/10/ece673?text=+) `#ece673` |
+ 
