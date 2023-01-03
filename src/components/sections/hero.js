@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a fourth year student at UC Davis, finishing up a B.S. in Computer Science. Just recently,
+        I recently graduated from the University of California, Davis, with a B.S. in Computer Science. Just recently,
         I finished work on a rhythm game called{' '}
         <a href="https://lennoncc.github.io/Reclaim/" target="_blank" rel="noreferrer">
           Reclaim

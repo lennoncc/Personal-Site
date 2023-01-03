@@ -144,9 +144,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Lennon Cruz, and I'm currently in my fourth year of undergrad at UC
-              Davis. I'm aiming to finish my degree by March of 2023, and am excited to build
-              solutions with software!
+              Hello! My name is Lennon Cruz, and I recently graduated from UC
+              Davis with a Bachelor of Science Degree in Computer Science. I am excited to build
+              solutions with software, and am actively looking for opportunities within tech!
             </p>
 
             <p>Here are some technologies I’ve been working with recently:</p>
