@@ -65,9 +65,9 @@ const Hero = () => {
     <>
       <p>
         I recently graduated from the University of California, Davis, with a B.S. in Computer Science. Just recently,
-        I finished work on a rhythm game called{' '}
-        <a href="https://lennoncc.github.io/Reclaim/" target="_blank" rel="noreferrer">
-          Reclaim
+        I finished work on a networking project involving{' '}
+        <a href="https://github.com/lennoncc/dnsproject" target="_blank" rel="noreferrer">
+          Socket Programming with DNS
         </a>
         .
       </p>

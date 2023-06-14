@@ -1,17 +1,14 @@
 ---
-date: '2'
-title: 'Blog Website'
+date: '1'
+title: 'Socket Programming: Domain Name System (DNS)'
 cover: './demo.png'
-github: 'https://github.com/lennoncc/blog-strapi'
-external: 'https://hailey-blog-lennoncc.vercel.app/'
+github: 'https://github.com/lennoncc/dnsproject'
+# external: 'https://hailey-blog-lennoncc.vercel.app/'
 tech:
-  - React
-  - Next.js
-  - Strapi
-  - Heroku
-  - Cloudinary
+  - Python
+  - Socket API
 ---
 
-A personal blog website.
+This is a side project where I implemented a DNS client and server from scratch using Python's Socket API.
 
-This site utilizes the Strapi Content Management System for easy adding and editing of content, and is hosted on Vercel and Heroku. I built this site following my experience building the NVSI (New Viet Nam Studies Initiative) site, and wanted to explore more into what the CMS was able to do.
+The Python program implements DNS protocol specifications, including DNS queries and responses, and enables effective communication with DNS servers. I explored how DNS queries are built and sent, and how to parse the data received back from the DNS server. Additionally, I emulated a DNS server that iteratively resolves input DNS queries by consulting the root name server, the TLD name server, and finally the authoritative DNS server to resolve the IP Address of the requested hostname.
