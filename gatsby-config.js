@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: 'Lennon Cruz',
     description:
-      'Lennon Cruz is an aspiring software engineer who is studying Computer Science at UC Davis.',
+      'Lennon Cruz is an aspiring software engineer who recently finished a Bachelor of Science degree in Computer Science at UC Davis.',
     siteUrl: 'https://lennoncc.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@lennonomel',
