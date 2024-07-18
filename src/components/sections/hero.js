@@ -64,10 +64,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I recently graduated from the University of California, Davis, with a B.S. in Computer Science. Just recently,
-        I finished work on a networking project involving{' '}
-        <a href="https://github.com/lennoncc/dnsproject" target="_blank" rel="noreferrer">
-          Socket Programming with DNS
+        I recently graduated from the University of California, Davis, with a B.S. in Computer Science. I'm currently working
+        with Angular, Express.js, and Microsoft SQL Server on a {' '}<a href="https://github.com/lennoncc/SQL-Web-Dev-Project" target="_blank" rel="noreferrer">
+          Fullstack Web Development Project
         </a>
         .
       </p>
